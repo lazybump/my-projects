@@ -26,10 +26,12 @@ It may apply to the same job multiple times (in the event that the script breaks
 
 # Dota Web Scraper
 
+Scrapes the Dota website to obtain the top Dota players and their rank at any given moment.
+
 # Pre-requisites
 
 You will need Selenium and Beautiful Soup, along with Requests
 
 # Explanation
 
-Scrapes the Dota website to obtain the top Dota players and their rank at any given moment. Comments to help understand each step
+Comments to help understand each step
